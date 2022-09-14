@@ -1,0 +1,24 @@
+we are having a project in which 5 person working
+
+2 person  working on front end  UI
+1 person working on REST API
+1 Service+Business layer
+1 DAO Layer
+
+TL
+ make request over the GitHub 
+ 
+ Maven Repository Pom.xml
+ 
+ your folder ->init
+ 
+ to exit from vi editor 
+ you need to press esc key and then :wq after that press enter you will be exit from the vi editor 
+ git commit --amend 
+ git rebase -i HEAD-3
+ 
+ we are going to porform mainly two task first
+ 1-we add/remove content in file or we add/remove files  in local repository
+ 2-we add/remove content from github or add/remove files in github repository 
+ 
+ 
