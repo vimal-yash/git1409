@@ -20,5 +20,6 @@ TL
  we are going to porform mainly two task first
  1-we add/remove content in file or we add/remove files  in local repository
  2-we add/remove content from github or add/remove files in github repository 
- 
+ editing online text file 
+ we are going to pull this file in local machine 
  
